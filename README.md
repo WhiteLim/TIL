@@ -3,3 +3,4 @@
 
 > 참고 [ https://nalsae.notion.site/de1b500b34ce48baacafd1121b913864?v=e9934625d2d9400dbce7a5f1b12ce055 ]
 > 연습 [ https://www.comcbt.com/ ]
+> 준비 : 정보처리기사
