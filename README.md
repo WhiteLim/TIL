@@ -8,6 +8,8 @@
 > 준비 : 정보처리기사
 
 ## my learn schedule
+| Type | Category | Learn | 
+| -- | -- | -- | 
 | 평일 | 자사 | 도메인, 호스팅, 서버, 공부 |
 | 토요일 | 개인 | Next, React, Typescript |
 | 일요일 | 개인 | CS, 정처기 |
